@@ -4,7 +4,7 @@ A very simple tic-tac-toe game implemented using C++ with the [SFML library](htt
 Game is single player only (at this stage) and uses a minmax algorithm with alpha-beta pruning for the AI.
 
 ### Compiling the Game
-To compile and run the game the SFML SDK must be downloaded. It is recommended using Visual Studio and following [SFML's tutorial](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) for project configuration.
+To compile and run the game the SFML SDK must be downloaded. It is recommended using Visual Studio and following [SFML's tutorial](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) for project configuration.  
 sfml-graphics, sfml-window, and sfml-system libraries are required for successful compilation.
 
 ### Running the Game
